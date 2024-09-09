@@ -1,11 +1,7 @@
 My name is Diego and I'm from Italy, Romagna to be more precise, but you can call me @Diauro for short.
-I received my PhD in physics at the University of Geneva and did some applications of Machine and Deep Learning. Image processing and analysis together with natural language process is what makes me really curious.
+I received my PhD in physics at the University of Geneva and did extensive data analysis and applications of Machine and Deep Learning. 
 
-- Now I'm collaborating with the applied superconductivity research group in Geneva to produce a tool which uses deep learning architectures for instance segmentation!
-Our previous work is published here https://www.nature.com/articles/s41598-021-87475-6. Also we developed a user interface that you can check it [here](https://tat.readthedocs.io/en/latest/). We also got a spotlight for this work that you can check [here](https://www.esrf.fr/fr/home/news/spotlight/content-news/spotlight/spotlight388.html)
-- Currently I am working on image segmentation with focus on U-net for micro-tomography images
-
-
+Currently, I’m a data scientist at Picarro Inc., where we use statistical and machine learning algorithms to improve emission estimation. I’m a finance enthusiast and am working towards finding my spot as a quant.
 
 <!---
 Diauro/Diauro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
