@@ -1,7 +1,6 @@
-My name is Diego and I'm from Italy, Romagna to be more precise, but you can call me @Diauro for short.
-I received my PhD in physics at the University of Geneva and did extensive data analysis and applications of Machine and Deep Learning. 
+My name is Diego, I received my PhD in physics at the University of Geneva and did extensive data analysis and applications of Machine and Deep Learning. 
 
-Currently, I’m a data scientist at Picarro Inc., where we use statistical and machine learning algorithms to improve emission estimation. I’m a finance enthusiast and am working towards finding my spot as a quant.
+Currently, I’m a data scientist at Picarro Inc., where I use statistical and machine learning algorithms to improve emission quantification and estimation. I’m a finance enthusiast and like to create outreach for coding enthusiasts. 
 
 <!---
 Diauro/Diauro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
